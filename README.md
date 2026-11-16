@@ -16,3 +16,4 @@ Animações com CSS a partir de imagens e gifs e lógica com DOM.
 
 - Deixar score sempre com pelo menos duas casas decimais
 - Aprimorar pressionamento de teclas e resposta em jogo
+- Aumentar velocidade conforme avança no jogo
