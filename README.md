@@ -15,5 +15,4 @@ Animações com CSS a partir de imagens e gifs e lógica com DOM.
 ## Melhorias
 
 - Deixar score sempre com pelo menos duas casas decimais
-- Bloquear teclas no Game Over
 - Aprimorar pressionamento de teclas e resposta em jogo
